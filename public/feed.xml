@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Your Name]]></title>
+        <description><![CDATA[Your Name]]></description>
+        <link>https://yoursite.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 13 Nov 2023 05:22:36 GMT</lastBuildDate>
+        <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Notes on A Programmable Web by Aaron Swartz]]></title>
+            <description><![CDATA[At the time when I was getting into web development, I had the chance to read one of the most inspiring book about the web, Aaron Swartz's A Programmable Web. And it completely changed my mind.]]></description>
+            <link>/posts/notes</link>
+            <guid isPermaLink="true">/posts/notes</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Sat, 21 May 2022 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Notes on A Programmable Web by Aaron Swartz]]></title>
+            <description><![CDATA[At the time when I was getting into web development, I had the chance to read one of the most inspiring book about the web, Aaron Swartz's A Programmable Web. And it completely changed my mind.]]></description>
+            <link>/posts/markdowns</link>
+            <guid isPermaLink="true">/posts/markdowns</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Sat, 21 May 2022 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next.js Pages]]></title>
+            <description><![CDATA[Learn more about Next.js pages.]]></description>
+            <link>/posts/pages</link>
+            <guid isPermaLink="true">/posts/pages</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Thu, 18 Mar 2021 04:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

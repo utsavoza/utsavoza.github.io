@@ -1,0 +1,33 @@
+---
+type: page
+title: Photos
+date: 2021-03-18
+---
+
+# Photos
+
+import Image from 'next/image'
+
+<figure>
+  <Image
+    src={`/images/photo2.jpg`}
+    alt="Photo"
+    width={1125}
+    height={750}
+    priority
+    className="next-image"
+  />
+  <figcaption className="z-10 mt-4 text-sm text-gray-600">Caption</figcaption>
+</figure>
+
+<figure>
+  <Image
+    src={`/images/photo.jpg`}
+    alt="Photo"
+    width={1125}
+    height={750}
+    priority
+    className="next-image"
+  />
+  <figcaption className="z-10 mt-4 text-sm text-gray-600">Caption</figcaption>
+</figure>
